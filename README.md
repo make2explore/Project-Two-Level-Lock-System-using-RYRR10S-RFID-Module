@@ -54,7 +54,7 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 
 📕 **YouTube Video Links**  
 
-▶️ [DIY Project] Reyax RYRR10S RFID/NFC Module - II - 🔗 https://youtu.be/eAvWvgpWD6o   
+▶️ [DIY Project] Reyax RYRR10S RFID/NFC Module - II - 🔗 https://youtu.be/9n3QT87dWtc   
 
 ------------------------------------------------------------------------------------------  
 
