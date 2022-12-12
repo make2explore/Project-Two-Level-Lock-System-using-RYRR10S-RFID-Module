@@ -1,5 +1,5 @@
-# Project : Two Level Lock System using RYRR10S RFID Module
-Device Overview, Testing and DIY project on Reyax RYRR10S RFID Module
+# Device Overview and DIY Project : RYRR10S RFID/NFC Module
+Device Overview, Testing and DIY project on Reyax RYRR10S RFID Module. This will be explained in two videos Part 1 and 2.
 
 
 <img src="/Images/RYRR10S-product-overview-make2explore.jpg" height="250" >
@@ -44,7 +44,7 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 
 <br />
 
-# RYLR998 LoRa Module Range Testing  
+# [DIY Project] Reyax RYRR10S RFID/NFC Module - Part II 
 
 🚩  In this video, We will see the second version of DIY project which we have seen in previous part, based on RYRR10S RFID/NFC Module. Which is manufactured by Reyax Technology. We will see its Flowchart, Source code, Circuit diagram and Demo.    
  
@@ -54,7 +54,7 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 
 📕 **YouTube Video Links**  
 
-▶️ RYLR998 LoRa Module Range Testing - 🔗 https://youtu.be/eAvWvgpWD6o   
+▶️ [DIY Project] Reyax RYRR10S RFID/NFC Module - II - 🔗 https://youtu.be/eAvWvgpWD6o   
 
 ------------------------------------------------------------------------------------------  
 
