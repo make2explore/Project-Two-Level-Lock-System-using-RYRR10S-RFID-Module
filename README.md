@@ -38,7 +38,7 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/Project-Two-Level-Lock-System-using-RYRR10S-RFID-Module
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Reyax-RYRR10S-RFID-Module-Review  
 
 ------------------------------------------------------------------------------------------  
 
