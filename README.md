@@ -28,7 +28,7 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 📒 **Important Links**  
  
 🌐 Reyax Website - 🔗 https://reyax.com/  
-🌐 RYLR998 Product page - 🔗 https://reyax.com/products/rylr998/  
+🌐 RYRR10S Product page - 🔗 https://reyax.com/products/RYRR10S  
 
 🔴 RYRR10S RFID/NFC Module Purchase Links -  
 
