@@ -39,6 +39,10 @@ This tutorial / Device Overview is about RYRR10S RFID Module. We've discussed..
 📜 Source Code, Circuit Diagrams and Documentation : 
 
 🌐 GitHub Repository - 🔗 https://github.com/make2explore/Reyax-RYRR10S-RFID-Module-Review  
+  
+🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore/diy-rfid-lock-using-ryrr10s-module-8343e1  
+  
+🌐 Instructable Blog - 🔗 https://www.instructables.com/DIY-RFID-Lock-Using-RYRR10S-Module/  
 
 ------------------------------------------------------------------------------------------  
 
